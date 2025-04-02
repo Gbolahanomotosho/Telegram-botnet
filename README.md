@@ -9,7 +9,7 @@
   Telegram-botnet is a very powerful ddos botnet written in python which can infect Window, Linux and Mac OS as bots/zombie
 
   
-  And make use of telegram as cnc server to launch mass ddos attack and send massive requests to a web server
+  And make use of telegram as cnc server to launch a large scale ddos attack and send massive requests to a web server
 
   
   Whenever a new device has been infected with this botnet a new notification is sent to your telegram alongside the victim system info, system name, date and time it was infected, system ip address 
@@ -17,7 +17,7 @@
   And whenever your infected system (bot/zombies) come online you can use the /Flood command to launch ddos attack
 
   
-  If infect up to 700 to 800 computer and you use the online 800 bots/zombies to launch an attack strong enough to shut down a big russian government servers in minutes
+  If you infect up to 700 to 800 computer and you use the online 800 bots/zombies to launch an attack strong enough to shut down a big russian government servers in minutes
 
 
   Telegram botnet uses GET requests to flood a web server and it can bypass a traditional firewall 🔥 by using request forgery headers with CRLF \r\n character
@@ -65,7 +65,7 @@
   * 💀 Telegram c2 | Uses Telegram as cnc server
   * 🔕 Telegram notification | Gets a new notification whenever a machine has been infected with the botnet including the victim system info, system name, date and time it was infected, system ip address
   * 🐍 Mass bots/zombies | Can infect mass bots/zombies up to millions of computers
-  * 🚀 Mass ddos attack | Launch a mass scale ddos attack if infect up to 700 to 800 computer you use the 800 online bots/zombies to shut down a big russian government servers in minutes 
+  * 🚀 Large scale ddos attack | Launch a large scale scale ddos attack if you infect up to 700 to 800 computer you use the 800 online bots/zombies to shut down a big russian government servers in minutes 
   * 🌊 Flooding attack | Use /Flood command to launch ddos attack 
   * 🌟 4 proxy type | Uses 4 different proxy types (http, https, sock4, sock5)
   * 🔥 WAF bypass | Bypass traditional firewall by using request forgery headers with CRLF \r\n character
